@@ -1,0 +1,97 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Satoshi is Green</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      background: #f5fff5;
+      color: #2e7d32;
+    }
+    header {
+      background: #2e7d32;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 1.2rem;
+    }
+    .logo {
+      max-width: 150px;
+      margin: 1rem auto;
+      display: block;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #1b5e20;
+    }
+    .token-info {
+      background: #e8f5e9;
+      padding: 1rem;
+      border-radius: 10px;
+      margin-top: 1rem;
+    }
+    footer {
+      background: #2e7d32;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+    .social {
+      margin-top: 1rem;
+    }
+    .social a {
+      color: white;
+      margin: 0 0.5rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="satoshi-is-green-logo.png" alt="Satoshi is Green Logo" class="logo">
+    <h1>Satoshi is Green</h1>
+    <p>Eco-conscious. Peer-to-peer. Built on Bitcoin Cash. 🌿</p>
+  </header>  <section>
+    <h2>What is $GREEN?</h2>
+    <p><strong>Satoshi is Green</strong> ($GREEN) is a fun, eco-friendly token on the Bitcoin Cash blockchain. It reclaims Satoshi Nakamoto’s true identity — fast, permissionless, and low-impact peer-to-peer cash — while supporting green initiatives and tipping creators who care.</p><div class="token-info">
+  <h3>Token Details</h3>
+  <ul>
+    <li><strong>Name:</strong> Satoshi is Green</li>
+    <li><strong>Ticker:</strong> $GREEN</li>
+    <li><strong>Chain:</strong> Bitcoin Cash (CashTokens)</li>
+    <li><strong>Total Supply:</strong> 10,000,000</li>
+  </ul>
+</div>
+
+<h2>Why $GREEN?</h2>
+<p>Because not all crypto needs to burn the planet. Bitcoin Cash is efficient, affordable, and green. $GREEN reminds us that Satoshi’s vision wasn’t about gas wars — it was about freedom, simplicity, and sustainability.</p>
+
+<h2>Join the Movement</h2>
+<p>Earn, tip, or collect $GREEN to support green builders and keep crypto cool (literally). It's not just a token — it's a statement. 💚</p>
+
+  </section>  <footer>
+    <p>&copy; 2025 Satoshi is Green • Built on BCH</p>
+    <div class="social">
+      <a href="#">Telegram</a>
+      <a href="#">X (Twitter)</a>
+      <a href="#">GitHub</a>
+    </div>
+  </footer>
+</body>
+</html>
